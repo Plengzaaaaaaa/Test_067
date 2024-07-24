@@ -27,4 +27,4 @@ wrRoute.post('/students'),function(req,res,next) {
             console.log(err);
         res.status(500).send('Read Failed');
         };
-    wrRoute.post('/students'),function(req,res,next)
+
